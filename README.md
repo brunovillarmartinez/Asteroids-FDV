@@ -3,5 +3,4 @@
 
 Alumno: Bruno Villar Martínez  
 Correo: bruno.villar@alumnos.upm.es 
-Demo Ejecutable (.exe):
-Documentación (PDF):
+
